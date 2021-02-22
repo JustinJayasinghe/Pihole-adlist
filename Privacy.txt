@@ -3154,3 +3154,8 @@ zlosch.comorthodoxy.ru
 0.0.0.0 api.telltalegames.com
 # theHunter: Call of the Wild - Hunter-Club BETA
 0.0.0.0 thp-social.avalanchestudios.com
+# new 2/21/2021
+0.0.0.0 www.belkin.com
+0.0.0.0 wpad.hsd1.in.comcast.net
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 wpad.youth-guidance.org
