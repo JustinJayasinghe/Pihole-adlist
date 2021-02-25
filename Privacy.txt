@@ -1,6 +1,4 @@
 # Basic tracking list by Disconnect
-# License: GPLv3
-# Contact: support [at] disconnect.me
 
 adjust.io
 airbrake.io
@@ -3015,11 +3013,9 @@ yurist.by
 zajnbspectramedwhl01.spectramed.co.za
 zlosch.com
 zlosch.comorthodoxy.ru
-# EXCONN - Gaming privacy list.
-# Last modified: 2021.01.01
-# Optional domains are blocked!
-# Detailed and optional connections for some games can be found here:
+
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
+
 # Steam Client domains.
 0.0.0.0 www.google-analytics.com
 0.0.0.0 stats.g.doubleclick.net
@@ -3154,7 +3150,7 @@ zlosch.comorthodoxy.ru
 # theHunter: Call of the Wild - Hunter-Club BETA
 0.0.0.0 thp-social.avalanchestudios.com
 
-# new 2/21/2021
+# custom 2/21/2021
 0.0.0.0 www.belkin.com
 0.0.0.0 wpad.hsd1.in.comcast.net
 0.0.0.0 catalog.gamepass.com
@@ -3241,6 +3237,7 @@ otnprd8.samsungcloudsolution.net
 otn.samsungcloudcdn.com
 sas.samsungcloudsolution.com
 upu.samsungelectronics.com
+
 #https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 # Facebook
 # graph.facebook.com # needed for facebook groups
@@ -3337,6 +3334,7 @@ applvn.com
 leanplum.com
 www.leanplum.com
 api.leanplum.com
+
 #https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
@@ -3356,6 +3354,7 @@ api.leanplum.com
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snaptubeapp.com
 0.0.0.0 log.kajicam.com
+
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 alpha.telemetry.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
@@ -3378,7 +3377,6 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-#w2
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
 04.static.xsf.ximxim.com
@@ -4059,6 +4057,7 @@ redshell.io
 api.redshell.io
 treasuredata.com
 api.treasuredata.com
+
 #https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.download.sweetpacks.com
