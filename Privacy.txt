@@ -3,9 +3,12 @@
 0.0.0.0 wpad.hsd1.in.comcast.net
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 wpad.youth-guidance.org
-0.0.0.0 graph.facebook.com
 0.0.0.0 gamelogs.live.bhvrdbd.com
 0.0.0.0 msedge.api.cdp.microsoft.com	
+spocs.getpocket.com
+img-getpocket.cdn.mozilla.net
+getpocket.cdn.mozilla.net
+push.services.mozilla.com
 
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
 
