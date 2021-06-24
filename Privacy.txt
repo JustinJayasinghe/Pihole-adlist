@@ -9,6 +9,7 @@ spocs.getpocket.com
 img-getpocket.cdn.mozilla.net
 getpocket.cdn.mozilla.net
 push.services.mozilla.com
+bing.com
 
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
 
