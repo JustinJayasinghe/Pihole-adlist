@@ -10,6 +10,7 @@ img-getpocket.cdn.mozilla.net
 getpocket.cdn.mozilla.net
 push.services.mozilla.com
 bing.com
+ygveeam01.hsd1.in.comcast.net
 
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
 
