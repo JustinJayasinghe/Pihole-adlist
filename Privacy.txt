@@ -11,6 +11,9 @@ getpocket.cdn.mozilla.net
 push.services.mozilla.com
 bing.com
 ygveeam01.hsd1.in.comcast.net
+heartbeat.belkin.com
+bing.com
+datarouter-prod.ak.epicgames.com
 
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
 
