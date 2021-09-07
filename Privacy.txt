@@ -14,6 +14,9 @@ ygveeam01.hsd1.in.comcast.net
 heartbeat.belkin.com
 bing.com
 datarouter-prod.ak.epicgames.com
+storecatalogrevocation.storequality.microsoft.com
+supercell.helpshift.com
+inbox.boombeach.com	
 
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
 
