@@ -17,6 +17,7 @@ datarouter-prod.ak.epicgames.com
 storecatalogrevocation.storequality.microsoft.com
 supercell.helpshift.com
 inbox.boombeach.com	
+packages.dmd.metaservices.microsoft.com
 
 # https://steamcommunity.com/groups/exposedconn/discussions/0/
 
