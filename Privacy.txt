@@ -18,6 +18,7 @@ storecatalogrevocation.storequality.microsoft.com
 supercell.helpshift.com
 inbox.boombeach.com	
 packages.dmd.metaservices.microsoft.com
+event.textnow.me	
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
