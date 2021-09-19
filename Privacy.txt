@@ -1,10 +1,10 @@
 # custom 6/18/2021
-0.0.0.0 www.belkin.com
-0.0.0.0 wpad.hsd1.in.comcast.net
-0.0.0.0 catalog.gamepass.com
-0.0.0.0 wpad.youth-guidance.org
-0.0.0.0 gamelogs.live.bhvrdbd.com
-0.0.0.0 msedge.api.cdp.microsoft.com	
+www.belkin.com
+wpad.hsd1.in.comcast.net
+catalog.gamepass.com
+wpad.youth-guidance.org
+gamelogs.live.bhvrdbd.com
+msedge.api.cdp.microsoft.com	
 spocs.getpocket.com
 img-getpocket.cdn.mozilla.net
 getpocket.cdn.mozilla.net
@@ -16,7 +16,7 @@ bing.com
 datarouter-prod.ak.epicgames.com
 storecatalogrevocation.storequality.microsoft.com
 supercell.helpshift.com
-inbox.boombeach.com	
+inbox.boombeach.com
 packages.dmd.metaservices.microsoft.com
 event.textnow.me	
 
