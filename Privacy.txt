@@ -12,13 +12,13 @@ push.services.mozilla.com
 bing.com
 ygveeam01.hsd1.in.comcast.net
 heartbeat.belkin.com
-bing.com
 datarouter-prod.ak.epicgames.com
 storecatalogrevocation.storequality.microsoft.com
 supercell.helpshift.com
 inbox.boombeach.com
 packages.dmd.metaservices.microsoft.com
 event.textnow.me	
+
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
