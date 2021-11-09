@@ -20,6 +20,7 @@ packages.dmd.metaservices.microsoft.com
 event.textnow.me	
 inbox.clashofclans.com
 www.bing.com
+cloud1.linksyssmartwifi.com
 
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
