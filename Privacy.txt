@@ -22,7 +22,7 @@ inbox.clashofclans.com
 www.bing.com
 cloud1.linksyssmartwifi.com
 collector.pabs.comcast.com
-
+polka.typekit.com
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
