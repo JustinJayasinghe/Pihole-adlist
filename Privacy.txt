@@ -17,13 +17,14 @@ storecatalogrevocation.storequality.microsoft.com
 supercell.helpshift.com
 inbox.boombeach.com
 packages.dmd.metaservices.microsoft.com
-event.textnow.me	
 inbox.clashofclans.com
 www.bing.com
 cloud1.linksyssmartwifi.com
 collector.pabs.comcast.com
 polka.typekit.com
 api-global.netflix.com
+stbrtl.stb.r53.xcal.tv
+event.textnow.me
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
