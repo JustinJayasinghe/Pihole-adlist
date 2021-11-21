@@ -26,6 +26,7 @@ api-global.netflix.com
 stbrtl.stb.r53.xcal.tv
 event.textnow.me
 people-pa.clients6.google.com
+notify.adobe.io
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
