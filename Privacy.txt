@@ -38,6 +38,7 @@ push.services.mozilla.com
 detectportal.firefox.com
 hanime.tv
 chan.sankakucomplex.com
+nhentai.net
 
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
