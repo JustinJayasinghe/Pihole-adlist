@@ -36,9 +36,8 @@ prod.detectportal.prod.cloudops.mozgcp.net
 detectportal.prod.mozaws.net
 push.services.mozilla.com
 detectportal.firefox.com
-hanime.tv
-chan.sankakucomplex.com
-nhentai.net
+api-iam.intercom.io
+d.la1-c1-ia5.salesforceliveagent.com
 
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
