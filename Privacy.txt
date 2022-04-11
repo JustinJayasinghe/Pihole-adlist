@@ -1,7 +1,6 @@
 # custom 6/18/2021
 www.belkin.com
 wpad.hsd1.in.comcast.net
-catalog.gamepass.com
 wpad.youth-guidance.org
 gamelogs.live.bhvrdbd.com
 msedge.api.cdp.microsoft.com	
