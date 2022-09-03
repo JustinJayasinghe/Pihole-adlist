@@ -1,7 +1,6 @@
 # custom 6/18/2021
 www.belkin.com
 wpad.hsd1.in.comcast.net
-wpad.youth-guidance.org
 gamelogs.live.bhvrdbd.com
 msedge.api.cdp.microsoft.com	
 spocs.getpocket.com
@@ -34,6 +33,7 @@ push.services.mozilla.com
 detectportal.firefox.com
 api-iam.intercom.io
 d.la1-c1-ia5.salesforceliveagent.com
+client-telemetry.roblox.com
 
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
