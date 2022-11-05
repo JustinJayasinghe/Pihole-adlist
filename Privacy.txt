@@ -1,4 +1,4 @@
-# custom 6/18/2021
+# custom 11/05/2022
 www.belkin.com
 wpad.hsd1.in.comcast.net
 gamelogs.live.bhvrdbd.com
@@ -34,7 +34,7 @@ detectportal.firefox.com
 api-iam.intercom.io
 d.la1-c1-ia5.salesforceliveagent.com
 client-telemetry.roblox.com
-
+overwatch.ingest.gdp.blizzard.com
 
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
