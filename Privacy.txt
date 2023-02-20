@@ -7,13 +7,11 @@ spocs.getpocket.com
 img-getpocket.cdn.mozilla.net
 getpocket.cdn.mozilla.net
 push.services.mozilla.com
-bing.com
 ygveeam01.hsd1.in.comcast.net
 heartbeat.belkin.com
 datarouter-prod.ak.epicgames.com
 storecatalogrevocation.storequality.microsoft.com
 packages.dmd.metaservices.microsoft.com
-www.bing.com
 cloud1.linksyssmartwifi.com
 collector.pabs.comcast.com
 polka.typekit.com
