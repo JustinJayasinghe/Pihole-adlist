@@ -20,6 +20,7 @@ stbrtl.stb.r53.xcal.tv
 event.textnow.me
 people-pa.clients6.google.com
 notify.adobe.io
+inbox.clashofclans.com
 contile.services.mozilla.com
 getpocket.com
 firefox.settings.services.mozilla.com
