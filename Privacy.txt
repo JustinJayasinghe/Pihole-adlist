@@ -1,6 +1,7 @@
 # custom 11/05/2022
 www.belkin.com
 wpad.hsd1.in.comcast.net
+wpad.tft.local
 gamelogs.live.bhvrdbd.com
 msedge.api.cdp.microsoft.com	
 spocs.getpocket.com
